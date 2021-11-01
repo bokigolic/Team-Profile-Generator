@@ -35,8 +35,8 @@ Contributors should read the installation section.
 npm test
 
 ## Questions
-<<<<<<< HEAD
+
 If you have any questions about this projects, please contact me directly at bokigolic32@gmail.comcom. You can view more of my projects at https://github.com/bokigolic .
-=======
+
 If you have any questions about this projects, please contact me directly at bokigolic32@gmail.com. You can view more of my projects at https://github.com/bokigolic 
->>>>>>> 468ae08f884666220c8c1f01d9ebf2a4dac6476a
+
