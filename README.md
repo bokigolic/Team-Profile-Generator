@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Team Profile Generator 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+=======
+# Team-Profile-Generator
+
+
+>>>>>>> 468ae08f884666220c8c1f01d9ebf2a4dac6476a
 
 ## Description 
 This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest. 
@@ -29,4 +35,8 @@ Contributors should read the installation section.
 npm test
 
 ## Questions
+<<<<<<< HEAD
 If you have any questions about this projects, please contact me directly at bokigolic32@gmail.comcom. You can view more of my projects at https://github.com/bokigolic .
+=======
+If you have any questions about this projects, please contact me directly at bokigolic32@gmail.com. You can view more of my projects at https://github.com/bokigolic 
+>>>>>>> 468ae08f884666220c8c1f01d9ebf2a4dac6476a
